@@ -55,4 +55,4 @@ Start the server
 
 ## Feedback
 
-If you have any feedback, please let us know via dennerceu01449@gmail.com
+If you have any feedback, please let me know via dennerceu01449@gmail.com
