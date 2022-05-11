@@ -13,7 +13,10 @@ As a learning experience of this project, I take into account the challenges to 
 
 ## Project Demo
 
-![image](https://user-images.githubusercontent.com/90917273/167725664-f32b029d-eaec-44f9-a095-9310dab4c837.png)
+
+
+https://user-images.githubusercontent.com/90917273/167865325-c71629c4-39f9-483d-b36a-882cd3985158.mp4
+
 
 
 ## Running Locally
