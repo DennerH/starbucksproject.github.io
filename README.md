@@ -39,12 +39,6 @@ Install the dependencies
   npm install
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
-
 
 ## Reference
 
